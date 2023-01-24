@@ -486,7 +486,7 @@ img {
 .checkbox-input:checked + .checkbox-label::before {
     background-color: var(--primary-brand-color);
     border: transparent;
-    background-image: url(../images/icons.svg#icon-check);
+    background-image: url(./images/icons.svg#icon-check);
     background-repeat: no-repeat;
     background-position: center;
 
